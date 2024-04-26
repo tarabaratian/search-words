@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(117, 117, 117);
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 35px;
+}
+input#search{
+    margin-top: 50px;
+    margin-left: 35px;
+    width: 300px;
+    height: 40px;
+    padding-left: 15px;
+    font-size:15px;
+    font-family: sans-serif;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+p#text{
+    margin-top: 50px;
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 30px;
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(86, 86, 86);
+}
+span{
+    background-color: plum;
+}
